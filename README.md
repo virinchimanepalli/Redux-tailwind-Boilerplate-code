@@ -1,4 +1,4 @@
-# Boilerplate code of redux toolkit along with tailwind css configuarion
+# Boilerplate code of redux toolkit along with tailwind css configuration
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
